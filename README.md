@@ -1,5 +1,5 @@
 # Health Assistant Chatbot Project
-This is a full-stack health assistant chatbot project built using TypeScript, React, Bootstrap and Tailwind for the frontend; Flask with Flask-CORS, Sentence Transformers for the backend.
+This is a full-stack health assistant chatbot project built using TypeScript, React and Tailwind for the frontend; Flask with Flask-CORS, Sentence Transformers for the backend.
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
